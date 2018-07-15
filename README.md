@@ -1,3 +1,11 @@
+# Mike's Modified MERN2
+
+This is a modified/updated version of the MERN2 stack from https://github.com/Hashnode/mern-starter.
+
+Modifications/setup requirements are listed [here](docs/CHANGES.md).
+
+***
+
 ![](http://res.cloudinary.com/hashnode/image/upload/w_200/v1466495663/static_imgs/mern/v2/mernio-logo.png)
 
 # mern-starter
